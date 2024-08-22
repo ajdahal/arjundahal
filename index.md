@@ -30,78 +30,68 @@ Regmi, Paribesh, Arjun Dahal, and Basanta Joshi. "Nepali speech recognition usin
 
 ## Teaching
 
-### [Course Title](#)
-**Institution:** [University Name] | _Semester Year_
+### Intermediate Programming(#)
+**Institution:** University of Texas at Arlington | Fall 2022, Spring 2023
 
-### [Course Title](#)
-**Institution:** [University Name] | _Semester Year_
 
-### [Course Title](#)
-**Institution:** [University Name] | _Semester Year_
+### Software Testing and Maintenance (#)
+**Institution:** University of Texas at Arlington | Summer 2023
 
-### [Course Title](#)
-**Institution:** [University Name] | _Semester Year_
+### Intemediate Programming (#)
+**Institution:** University of Texas at Arlington | Fall 2023 
 
-_A short description of the course, your role (e.g., Teaching Assistant, Instructor), and what you contributed to the course._
+### Professional Practice (#)
+**Institution:** University of Texas at Arlington | Spring 2024
+
+### Fundamentals of Software Engineering (#)
+**Institution:** University of Texas at Arlington | Summer 2024
+
+
+I was a teaching assistant for the courses listed above. I would resolve students' queries during TA hours, make solutions to exams, and grade the exams.
 
 
 
 ## Skills
 
 ### Programming Languages
-- Language 1 (e.g., Python)
-- Language 2 (e.g., C++)
-- Language 3 (e.g., Java)
+- Python, C, C++, Matlab, JavaScript, Java
 
 ### Tools and Frameworks
-- Tool/Framework 1 (e.g., TensorFlow)
-- Tool/Framework 2 (e.g., PyTorch)
-- Tool/Framework 3 (e.g., MATLAB)
+- Tensorflow, Pytorch, Matlab
 
 ### Research Methodologies
-- Methodology 1 (e.g., Machine Learning)
-- Methodology 2 (e.g., Data Analysis)
-- Methodology 3 (e.g., Theoretical Modeling)
+- Machine Learning, Data Analysis 
 
----
 
 ## Experience
 
-### [Position Title](#)
-**Institution:** [Your University or Company] | _Month Year - Month Year_
+### Solutions Engineer (#)
+**Institution:** LogPoint | Dec 2018 - Aug 2022
 
-_A short description of your role, the projects you worked on, and your contributions. Focus on research assistantships, internships, or relevant work experience._
+I was responsible for troubleshooting and debugging issues related to LogPoint, unified SIEM and SOAR solution. I have hands on experience on troubleshooting issues related to Linux Systems: Networking, Storage, and Services. 
 
-### [Position Title](#)
-**Institution:** [Your University or Company] | _Month Year - Month Year_
-
-_A short description of your role, the projects you worked on, and your contributions. Focus on research assistantships, internships, or relevant work experience._
 
 ---
 
 ## Education
 
 ### PhD in Computer Science & Engineering
-**Institution:** [Your University] | _Expected Graduation: Year_
+**Institution:** University of Texas at Arlington | May 2027
 
 _A brief overview of your PhD studies, your dissertation topic, and any relevant coursework or research projects._
 
-### [Previous Degree](#)
-**Institution:** [Your University] | _Graduation: Year_
+### Institute of Engineering(#)
+**Institution:** Tribhuvan University | 2018
 
-_A brief overview of your previous degree, major, and any relevant coursework or projects._
-
+I pursed Electronics and Communication Engineering.
 ---
 
 ## Contact
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn](#)
-- **GitHub:** [Your GitHub](#)
-- **Google Scholar:** [Your Google Scholar Profile](#)
-- **Personal Website:** [Your Website](#)
+- **Email:** [your-email@example.com](mailto:arjunatwork7@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/arjdahal/(#)
+- **GitHub:** https://github.com/ajdahal(#)
+- **Google Scholar:** https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ# (#)
 
 ---
-
-_Feel free to connect with me for collaborations, research discussions, or academic inquiries._
 
