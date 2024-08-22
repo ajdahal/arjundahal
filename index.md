@@ -94,7 +94,7 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 ## Contact
 
 <!-- Display Email -->
-<a href="mailto:axd5000@mavs.uta.edu">
+<a Email: href="mailto:axd5000@mavs.uta.edu">
   axd5000@mavs.uta.edu
 </a>
 
