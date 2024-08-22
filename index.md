@@ -107,25 +107,15 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/arjdahal/">
-  <svg class="contact-icon" viewBox="0 0 24 24">
-    <!-- Insert SVG path for LinkedIn icon here -->
-    <path d="linkedin.svg">
-  </svg>
+  <img src="linkedin_icon.svg" alt="LinkedIn" class="contact-icon">
 </a>
 
 <!-- GitHub -->
 <a href="https://github.com/ajdahal">
-  <svg class="contact-icon" viewBox="0 0 24 24">
-    <!-- Insert SVG path for GitHub icon here -->
-    <path d="github.svg">
-  </svg>
+  <img src="github_icon.svg" alt="GitHub" class="contact-icon">
 </a>
 
 <!-- Google Scholar -->
 <a href="https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ">
-  <svg class="contact-icon" viewBox="0 0 24 24">
-    <!-- There's no specific icon for Google Scholar, using a generic academic cap icon -->
-    <path d="googlescholar.svg">
-  </svg>
+  <img src="google_scholar_icon.svg" alt="Google Scholar" class="contact-icon">
 </a>
-
