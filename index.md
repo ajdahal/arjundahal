@@ -18,13 +18,6 @@ layout: default
   </div>
 </header>
 
-<nav style="text-align: center; margin-top: 20px; font-size: 18px;">
-  <a href="/publications/" style="margin-right: 15px;">Publications</a> |
-  <a href="/blog/" style="margin-right: 15px;">Blog</a> |
-  <a href="/cv/">CV</a>
-</nav>
-
-
 
 ## Research
 
@@ -94,22 +87,23 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 
 ## Contact
 
-<!-- Display Email -->
-<a Email: href="mailto:axd5000@mavs.uta.edu">
-  axd5000@mavs.uta.edu
-</a>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Display "Email:" label and email address -->
+  <span style="font-weight: bold;">Email:</span>
+  <a href="mailto:axd5000@mavs.uta.edu" style="text-decoration: none; color: black;">axd5000@mavs.uta.edu</a>
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/arjdahal/">
-  <img src="linkedin.svg" alt="LinkedIn" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/arjdahal/">
+    <img src="linkedin.svg" alt="LinkedIn" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
+  </a>
 
-<!-- GitHub -->
-<a href="https://github.com/ajdahal">
-  <img src="github.svg" alt="GitHub" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
-</a>
+  <!-- GitHub -->
+  <a href="https://github.com/ajdahal">
+    <img src="github.svg" alt="GitHub" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
+  </a>
 
-<!-- Google Scholar -->
-<a href="https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ">
-  <img src="googlescholar.svg" alt="Google Scholar" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
-</a>
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ">
+    <img src="googlescholar.svg" alt="Google Scholar" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
+  </a>
+</div>
