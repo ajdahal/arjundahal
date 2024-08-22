@@ -24,7 +24,7 @@ layout: default
 ## Research
 
 ### Fairness Testing of Machine Learning Models
-I am developing novel methods to conduct fairness testing on black box machine learning models. My approach focuses on creating transparent systems that ensure ethical AI practices.
+I am developing novel methods to conduct fairness testing on black box machine learning models. My approach focuses on making machine learning models more fair.
 
 
 
