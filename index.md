@@ -87,10 +87,10 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 
 ## Contact
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center;">
   <!-- Display "Email:" label and email address -->
-  <span style="font-weight: bold; margin-right: 20px;">Email:</span>
-  <a href="mailto:axd5000@mavs.uta.edu" style="text-decoration: none; color: black; margin-right: 50px;">axd5000@mavs.uta.edu</a>
+  <span style="font-weight: bold;">Email:</span>
+  <a href="mailto:axd5000@mavs.uta.edu" style="text-decoration: none; color: black; margin-right: 100px;">axd5000@mavs.uta.edu</a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arjdahal/" style="margin-right: 20px;">
@@ -98,8 +98,8 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/ajdahal" style="margin-right: 20px;">
-    <img src="github.svg" alt="GitHub" style="width: 24px; height: 24px; vertical-align: middle;">
+  <a href="https://github.com/ajdahal">
+    <img src="github.svg" alt="GitHub" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 20px;">
   </a>
 
   <!-- Google Scholar -->
@@ -107,4 +107,5 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
     <img src="googlescholar.svg" alt="Google Scholar" style="width: 24px; height: 24px; vertical-align: middle;">
   </a>
 </div>
+
 
