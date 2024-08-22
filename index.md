@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a PhD student in Computer Science & Engineering at University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence. 
+I am a PhD student in Computer Science & Engineering at the University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence. 
 
 - **Current Position:** PhD Student at the University of Texas at Arlington
 - **Research Interests:** Testing, XAI
@@ -29,6 +29,9 @@ Regmi, Paribesh, Arjun Dahal, and Basanta Joshi. "Nepali speech recognition usin
 ---
 
 ## Teaching
+
+### [Course Title](#)
+**Institution:** [University Name] | _Semester Year_
 
 ### [Course Title](#)
 **Institution:** [University Name] | _Semester Year_
