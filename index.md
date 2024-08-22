@@ -30,6 +30,8 @@ I am developing novel methods to conduct fairness testing on black box machine l
 
 ### Nepali speech recognition using rnn-ctc model
 **Conference/Journal:** International Journal of Computer Applications | 2019
+
+
 Abstract: This paper presents a detailed study and implementation of RNN-CTC models for recognizing Nepali speech. The results highlight significant advancements in language processing for low-resource languages.
 
 
