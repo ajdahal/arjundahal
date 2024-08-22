@@ -43,6 +43,8 @@ Abstract: This paper presents a detailed study and implementation of RNN-CTC mod
 
 ## Teaching
 
+I worked as a teaching assistant for the following courses. I was responsible for resolving student inquiries during office hours, creating exam solutions, and grading exams.
+
 ### Intermediate Programming
 **Institution:** University of Texas at Arlington | Fall 2022, Spring 2023, Fall 2023
 
@@ -55,7 +57,6 @@ Abstract: This paper presents a detailed study and implementation of RNN-CTC mod
 ### Fundamentals of Software Engineering
 **Institution:** University of Texas at Arlington | Summer 2024
 
-As a teaching assistant, I resolved student inquiries during office hours, created exam solutions, and graded exams.
 
 
 
@@ -100,15 +101,15 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/arjdahal/">
-  <img src="linkedin.svg" alt="LinkedIn" class="contact-icon">
+  <img src="linkedin.svg" alt="LinkedIn" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
 </a>
 
 <!-- GitHub -->
 <a href="https://github.com/ajdahal">
-  <img src="github.svg" alt="GitHub" class="contact-icon">
+  <img src="github.svg" alt="GitHub" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
 </a>
 
 <!-- Google Scholar -->
 <a href="https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ">
-  <img src="googlescholar.svg" alt="Google Scholar" class="contact-icon">
+  <img src="googlescholar.svg" alt="Google Scholar" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;">
 </a>
