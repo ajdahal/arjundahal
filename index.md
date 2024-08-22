@@ -107,15 +107,15 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/arjdahal/">
-  <img src="linkedin_icon.svg" alt="LinkedIn" class="contact-icon">
+  <img src="linkedin.svg" alt="LinkedIn" class="contact-icon">
 </a>
 
 <!-- GitHub -->
 <a href="https://github.com/ajdahal">
-  <img src="github_icon.svg" alt="GitHub" class="contact-icon">
+  <img src="github.svg" alt="GitHub" class="contact-icon">
 </a>
 
 <!-- Google Scholar -->
 <a href="https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ">
-  <img src="google_scholar_icon.svg" alt="Google Scholar" class="contact-icon">
+  <img src="googlescholar.svg" alt="Google Scholar" class="contact-icon">
 </a>
