@@ -1,21 +1,23 @@
-# Arjun Dahal 
-
 ![Profile Photo](photo.jpg)
 
 ## About Me
 
-I am a PhD student in Computer Science & Engineering at the University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence. 
+I am a PhD student in Computer Science & Engineering at the University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence.
+
+Current Position: PhD Student at the University of Texas at Arlington
+Research Interests: XAI, Testing, Generative AI
+
 
 - **Current Position:** PhD Student at the University of Texas at Arlington
-- **Research Interests:** Testing, XAI
+- **Research Interests:** XAI, Testing, Generative AI
 
 ---
 
 ## Research
 
 ### Fairness Testing of Machine Learning Models
-I am researching Novel methods to conduct Fairness testing of Black Box Machine Learning Models.
-
+I am developing novel methods to conduct fairness testing on black box machine learning models.
+My approach focuses on creating systems that help mitigate bias during the decision-making process.
 
 ---
 
@@ -23,31 +25,28 @@ I am researching Novel methods to conduct Fairness testing of Black Box Machine 
 
 Regmi, Paribesh, Arjun Dahal, and Basanta Joshi. "Nepali speech recognition using rnn-ctc model." International Journal of Computer Applications 178.31 (2019): 1-6.
 
-### Nepali speech recognition using rnn-ctc model(#)
+### Nepali speech recognition using rnn-ctc model
 **Conference/Journal:** International Journal of Computer Applications | 2019
 
 ---
 
 ## Teaching
 
-### Intermediate Programming(#)
-**Institution:** University of Texas at Arlington | Fall 2022, Spring 2023
+### Intermediate Programming
+**Institution:** University of Texas at Arlington | Fall 2022, Spring 2023, Fall 2023 
 
-
-### Software Testing and Maintenance (#)
+### Software Testing and Maintenance
 **Institution:** University of Texas at Arlington | Summer 2023
 
-### Intemediate Programming (#)
-**Institution:** University of Texas at Arlington | Fall 2023 
-
-### Professional Practice (#)
+### Professional Practice
 **Institution:** University of Texas at Arlington | Spring 2024
 
-### Fundamentals of Software Engineering (#)
+### Fundamentals of Software Engineering
 **Institution:** University of Texas at Arlington | Summer 2024
 
 
-I was a teaching assistant for the courses listed above. I would resolve students' queries during TA hours, make solutions to exams, and grade the exams.
+As a teaching assistant, I resolved student inquiries during office hours, created exam solutions, and graded exams.
+
 
 
 
@@ -65,10 +64,10 @@ I was a teaching assistant for the courses listed above. I would resolve student
 
 ## Experience
 
-### Solutions Engineer (#)
+### Solutions Engineer 
 **Institution:** LogPoint | Dec 2018 - Aug 2022
 
-I was responsible for troubleshooting and debugging issues related to LogPoint, unified SIEM and SOAR solution. I have hands on experience on troubleshooting issues related to Linux Systems: Networking, Storage, and Services. 
+Responsible for troubleshooting and debugging issues related to LogPoint, unified SIEM, and SOAR solutions. Gained extensive hands-on experience with Linux Systems including networking, storage, and services.
 
 
 ---
@@ -76,22 +75,21 @@ I was responsible for troubleshooting and debugging issues related to LogPoint, 
 ## Education
 
 ### PhD in Computer Science & Engineering
-**Institution:** University of Texas at Arlington | May 2027
+**Institution:** University of Texas at Arlington | Aug 2022 - Present
 
-_A brief overview of your PhD studies, your dissertation topic, and any relevant coursework or research projects._
 
 ### Institute of Engineering(#)
-**Institution:** Tribhuvan University | 2018
+**Institution:** Tribhuvan University | Sep 2018
 
-I pursed Electronics and Communication Engineering.
 ---
 
 ## Contact
 
-- **Email:** [your-email@example.com](mailto:arjunatwork7@gmail.com)
-- **LinkedIn:** https://www.linkedin.com/in/arjdahal/(#)
-- **GitHub:** https://github.com/ajdahal(#)
-- **Google Scholar:** https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ# (#)
+
+<a href="mailto:arjunatwork7@gmail.com"><img src="email_icon.png" alt="Email"></a>
+<a href="https://www.linkedin.com/in/arjdahal/"><img src="linkedin_icon.png" alt="LinkedIn"></a>
+<a href="https://github.com/ajdahal/"><img src="github_icon.png" alt="GitHub"></a>
+<a href="https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ#"><img src="google_scholar_icon.png" alt="Google Scholar"></a>
+
 
 ---
-
