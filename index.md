@@ -19,10 +19,14 @@ layout: default
 </header>
 
 
+
+
 ## Research
 
 ### Fairness Testing of Machine Learning Models
 I am developing novel methods to conduct fairness testing on black box machine learning models. My approach focuses on creating transparent systems that ensure ethical AI practices.
+
+
 
 
 
@@ -33,6 +37,8 @@ I am developing novel methods to conduct fairness testing on black box machine l
 
 
 Abstract: This paper presents a detailed study and implementation of RNN-CTC models for recognizing Nepali speech. The results highlight significant advancements in language processing for low-resource languages.
+
+
 
 
 
@@ -68,12 +74,16 @@ I worked as a teaching assistant for the following courses. I was responsible fo
 
 
 
+
+
 ## Experience
 
 ### Solutions Engineer 
 **Institution:** LogPoint | Dec 2018 - Aug 2022
 
 Responsible for troubleshooting and debugging issues related to LogPoint, unified SIEM, and SOAR solutions. Gained extensive hands-on experience with Linux Systems including networking, storage, and services.
+
+
 
 
 
@@ -84,6 +94,8 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 
 ### Institute of Engineering, Pulchowk Campus
 **Institution:** Tribhuvan University | Sep 2018
+
+
 
 
 
