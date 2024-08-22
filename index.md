@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Your Portfolio
+title: Arjun Dahal
 ---
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="photo.jpg" alt="Profile Photo" style="width: 200px; height: auto; margin-right: 20px;">
-
+<div style="display: flex; align-items: center; background: #f8f9fa; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="/path/to/photo.jpg" alt="Arjun Dahal" style="width: 300px; height: auto; margin-right: 20px;">
   <div>
-    <h2>About Me</h2>
+    <h1>Arjun Dahal</h1>
     <p>I am a PhD student in Computer Science & Engineering at the University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence.</p>
     <ul>
       <li><strong>Current Position:</strong> PhD Student at the University of Texas at Arlington</li>
@@ -15,6 +14,12 @@ title: Your Portfolio
     </ul>
   </div>
 </div>
+
+<nav style="text-align: center; margin-top: 20px;">
+  <a href="/publications/" style="margin-right: 15px;">Publications</a> |
+  <a href="/blog/" style="margin-right: 15px;">Blog</a> |
+  <a href="/cv/">CV</a>
+</nav>
 
 ---
 
@@ -29,7 +34,6 @@ I am developing novel methods to conduct fairness testing on black box machine l
 
 ### Nepali speech recognition using rnn-ctc model
 **Conference/Journal:** International Journal of Computer Applications | 2019
-
 Abstract: This paper presents a detailed study and implementation of RNN-CTC models for recognizing Nepali speech. The results highlight significant advancements in language processing for low-resource languages.
 
 ---
