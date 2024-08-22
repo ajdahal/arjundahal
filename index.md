@@ -1,52 +1,32 @@
-# Your Name
+# Arjun Dahal 
 
-![Profile Photo](link-to-your-photo.jpg)
-
-_PhD Student in Computer Science & Engineering | Researcher in [Your Research Area]_
-
----
+![Profile Photo](photo.jpg)
 
 ## About Me
 
-I am a PhD student in Computer Science & Engineering at [Your University]. My research focuses on [Your Research Area], particularly in [specific topics]. My goal is to [briefly describe your research goals or career aspirations].
+I am a PhD student in Computer Science & Engineering at University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence. 
 
-- **Current Position:** PhD Student at [Your University]
-- **Advisor:** [Your Advisor's Name]
-- **Research Interests:** [Research Area 1], [Research Area 2], [Research Area 3]
+- **Current Position:** PhD Student at the University of Texas at Arlington
+- **Research Interests:** Testing, XAI
 
 ---
 
 ## Research
 
-### [Research Project Title 1](#)
+### Fairness Testing of Machine Learning Models 
 **Collaborators:** [Collaborator Names, if any]
 
-_A brief overview of your research project. Explain the problem you are addressing, your approach, and any key results. Include links to publications, presentations, or demos if available._
+I am researching Novel methods to carry out Fairness testing of Black Box Machine Learning Models.
 
-- **Keywords:** [Keyword 1], [Keyword 2], [Keyword 3]
-- **Publications:** [Link to relevant paper or preprint]
-
-### [Research Project Title 2](#)
-**Collaborators:** [Collaborator Names, if any]
-
-_A brief overview of your research project. Explain the problem you are addressing, your approach, and any key results. Include links to publications, presentations, or demos if available._
-
-- **Keywords:** [Keyword 1], [Keyword 2], [Keyword 3]
-- **Publications:** [Link to relevant paper or preprint]
 
 ---
 
 ## Publications
 
-### [Paper Title 1](#)
-**Conference/Journal:** [Name of Conference/Journal] | _Year_
+Regmi, Paribesh, Arjun Dahal, and Basanta Joshi. "Nepali speech recognition using rnn-ctc model." International Journal of Computer Applications 178.31 (2019): 1-6.
 
-_A brief description or abstract of the paper. You can also mention the significance of the work or the impact it has had._
-
-### [Paper Title 2](#)
-**Conference/Journal:** [Name of Conference/Journal] | _Year_
-
-_A brief description or abstract of the paper. You can also mention the significance of the work or the impact it has had._
+### Nepali speech recognition using rnn-ctc model(#)
+**Conference/Journal:** International Journal of Computer Applications | 2019
 
 ---
 
@@ -55,14 +35,12 @@ _A brief description or abstract of the paper. You can also mention the signific
 ### [Course Title](#)
 **Institution:** [University Name] | _Semester Year_
 
+### [Course Title](#)
+**Institution:** [University Name] | _Semester Year_
+
 _A short description of the course, your role (e.g., Teaching Assistant, Instructor), and what you contributed to the course._
 
-### [Workshop Title](#)
-**Event Name:** [Conference/Workshop Name] | _Year_
 
-_A short description of the workshop, your role in organizing or leading it, and any outcomes._
-
----
 
 ## Skills
 
