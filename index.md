@@ -78,7 +78,7 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 
 ## Contact
 
-[![Email](email_icon.png)](mailto:arjunatwork7@gmail.com)
+[![Email](email_icon.png)](mailto:axd5000@mavs.uta.edu)
 [![LinkedIn](linkedin_icon.png)](https://www.linkedin.com/in/arjdahal/)
 [![GitHub](github_icon.png)](https://github.com/ajdahal/)
 [![Google Scholar](google_scholar_icon.png)](https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ)
