@@ -4,7 +4,7 @@ title: Arjun Dahal
 ---
 
 <div style="display: flex; align-items: center; background: #f8f9fa; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <img src="/path/to/photo.jpg" alt="Arjun Dahal" style="width: 300px; height: auto; margin-right: 20px;">
+  <img src="photo.jpg" alt="Arjun Dahal" style="width: 300px; height: auto; margin-right: 20px;">
   <div>
     <h1>Arjun Dahal</h1>
     <p>I am a PhD student in Computer Science & Engineering at the University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence.</p>
