@@ -11,8 +11,8 @@ layout: default
       <h1>Arjun Dahal</h1>
       <p>I am a PhD student in Computer Science & Engineering at the University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence.</p>
       <ul>
-        <li><strong>Current Position:</strong> PhD Student at the University of Texas at Arlington</li>
-        <li><strong>Research Interests:</strong> XAI, Testing, Generative AI</li>
+        <li><strong>Current Position:</strong> PhD Student, University of Texas at Arlington</li>
+        <li><strong>Research Interests:</strong> XAI, Fairness Testing, Generative AI</li>
       </ul>
     </div>
   </div>
@@ -34,9 +34,6 @@ I am developing novel methods to conduct fairness testing on black box machine l
 
 ### Nepali speech recognition using rnn-ctc model
 **Conference/Journal:** International Journal of Computer Applications | 2019
-
-
-Abstract: This paper presents a detailed study and implementation of RNN-CTC models for recognizing Nepali speech. The results highlight significant advancements in language processing for low-resource languages.
 
 
 
