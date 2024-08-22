@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+<link rel="stylesheet" type="text/css" href="styles.css">
 
 <header style="background: #f8f9fa; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <div style="display: flex; align-items: center;">
