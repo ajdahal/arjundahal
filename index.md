@@ -47,16 +47,16 @@ Abstract: This paper presents a detailed study and implementation of RNN-CTC mod
 I worked as a teaching assistant for the following courses. I was responsible for resolving student inquiries during office hours, creating exam solutions, and grading exams.
 
 ### Intermediate Programming
-**Institution:** University of Texas at Arlington | Fall 2022, Spring 2023, Fall 2023
+University of Texas at Arlington | Fall 2022, Spring 2023, Fall 2023
 
 ### Software Testing and Maintenance
-**Institution:** University of Texas at Arlington | Summer 2023
+University of Texas at Arlington | Summer 2023
 
 ### Professional Practice
-**Institution:** University of Texas at Arlington | Spring 2024
+University of Texas at Arlington | Spring 2024
 
 ### Fundamentals of Software Engineering
-**Institution:** University of Texas at Arlington | Summer 2024
+University of Texas at Arlington | Summer 2024
 
 
 
@@ -79,7 +79,7 @@ I worked as a teaching assistant for the following courses. I was responsible fo
 ## Experience
 
 ### Solutions Engineer 
-**Institution:** LogPoint | Dec 2018 - Aug 2022
+LogPoint | Dec 2018 - Aug 2022
 
 Responsible for troubleshooting and debugging issues related to LogPoint, unified SIEM, and SOAR solutions. Gained extensive hands-on experience with Linux Systems including networking, storage, and services.
 
@@ -90,10 +90,10 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 ## Education
 
 ### PhD in Computer Science & Engineering
-**Institution:** University of Texas at Arlington | Aug 2022 - Present
+University of Texas at Arlington | Aug 2022 - Present
 
 ### Institute of Engineering, Pulchowk Campus
-**Institution:** Tribhuvan University | Sep 2018
+Tribhuvan University | Sep 2018
 
 
 
