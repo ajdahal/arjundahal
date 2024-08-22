@@ -6,7 +6,7 @@ layout: default
 
 <header style="background: #f8f9fa; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <div style="display: flex; align-items: center;">
-    <img src="photo.jpg" alt="Arjun Dahal" style="width: 200px; height: auto; margin-right: 20px;">
+    <img src="photo.jpg" alt="Arjun Dahal" style="width: 200px; height: auto; margin-right: 200px;">
     <div>
       <h1>Arjun Dahal</h1>
       <p>I am a PhD student in Computer Science & Engineering at the University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence.</p>
