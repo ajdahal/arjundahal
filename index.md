@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Arjun Dahal
 ---
 
 <header style="background: #f8f9fa; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
@@ -23,16 +22,22 @@ title: Arjun Dahal
   <a href="/cv/">CV</a>
 </nav>
 
+
+
 ## Research
 
 ### Fairness Testing of Machine Learning Models
 I am developing novel methods to conduct fairness testing on black box machine learning models. My approach focuses on creating transparent systems that ensure ethical AI practices.
+
+
 
 ## Publications
 
 ### Nepali speech recognition using rnn-ctc model
 **Conference/Journal:** International Journal of Computer Applications | 2019
 Abstract: This paper presents a detailed study and implementation of RNN-CTC models for recognizing Nepali speech. The results highlight significant advancements in language processing for low-resource languages.
+
+
 
 ## Teaching
 
@@ -50,6 +55,8 @@ Abstract: This paper presents a detailed study and implementation of RNN-CTC mod
 
 As a teaching assistant, I resolved student inquiries during office hours, created exam solutions, and graded exams.
 
+
+
 ## Skills
 
 ### Programming Languages
@@ -61,6 +68,8 @@ As a teaching assistant, I resolved student inquiries during office hours, creat
 ### Research Methodologies
 - Machine Learning, Data Analysis 
 
+
+
 ## Experience
 
 ### Solutions Engineer 
@@ -68,17 +77,55 @@ As a teaching assistant, I resolved student inquiries during office hours, creat
 
 Responsible for troubleshooting and debugging issues related to LogPoint, unified SIEM, and SOAR solutions. Gained extensive hands-on experience with Linux Systems including networking, storage, and services.
 
+
+
 ## Education
 
 ### PhD in Computer Science & Engineering
 **Institution:** University of Texas at Arlington | Aug 2022 - Present
 
-### Institute of Engineering
+### Institute of Engineering, Pulchowk Campus
 **Institution:** Tribhuvan University | Sep 2018
+
+
 
 ## Contact
 
-[![Email](email_icon.png)](mailto:axd5000@mavs.uta.edu)
-[![LinkedIn](linkedin_icon.png)](https://www.linkedin.com/in/arjdahal/)
-[![GitHub](github_icon.png)](https://github.com/ajdahal/)
-[![Google Scholar](google_scholar_icon.png)](https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ)
+<style>
+  .contact-icon {
+    width: 24px; /* Adjust width as needed */
+    height: 24px; /* Adjust height as needed */
+    vertical-align: middle; /* Aligns the icon with the text */
+    margin-right: 8px; /* Space between the icon and text */
+  }
+</style>
+
+<!-- Display Email -->
+<a href="mailto:axd5000@mavs.uta.edu">
+  axd5000@mavs.uta.edu
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/arjdahal/">
+  <svg class="contact-icon" viewBox="0 0 24 24">
+    <!-- Insert SVG path for LinkedIn icon here -->
+    <path d="linkedin.svg">
+  </svg>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/ajdahal">
+  <svg class="contact-icon" viewBox="0 0 24 24">
+    <!-- Insert SVG path for GitHub icon here -->
+    <path d="github.svg">
+  </svg>
+</a>
+
+<!-- Google Scholar -->
+<a href="https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ">
+  <svg class="contact-icon" viewBox="0 0 24 24">
+    <!-- There's no specific icon for Google Scholar, using a generic academic cap icon -->
+    <path d="googlescholar.svg">
+  </svg>
+</a>
+
