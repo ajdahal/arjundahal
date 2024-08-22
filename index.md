@@ -1,22 +1,20 @@
-<table>
-<tr>
-<td>
+---
+layout: default
+title: Your Portfolio
+---
 
-![Profile Photo](photo.jpg)
+<div style="display: flex; align-items: flex-start;">
+  <img src="photo.jpg" alt="Profile Photo" style="width: 200px; height: auto; margin-right: 20px;">
 
-</td>
-<td>
-
-## About Me
-
-I am a PhD student in Computer Science & Engineering at the University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence. 
-
-- **Current Position:** PhD Student at the University of Texas at Arlington
-- **Research Interests:** XAI, Testing, Generative AI
-
-</td>
-</tr>
-</table>
+  <div>
+    <h2>About Me</h2>
+    <p>I am a PhD student in Computer Science & Engineering at the University of Texas at Arlington. My research focuses on Testing Machine Learning Models and Explainable Artificial Intelligence.</p>
+    <ul>
+      <li><strong>Current Position:</strong> PhD Student at the University of Texas at Arlington</li>
+      <li><strong>Research Interests:</strong> XAI, Testing, Generative AI</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -94,4 +92,3 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 [![Google Scholar](google_scholar_icon.png)](https://scholar.google.com/citations?hl=en&user=fI9pyVIAAAAJ#)
 
 ---
-
