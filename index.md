@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
+
 <header style="background: #f8f9fa; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <div style="display: flex; align-items: center;">
     <img src="photo.jpg" alt="Arjun Dahal" style="width: 300px; height: auto; margin-right: 20px;">
@@ -90,15 +92,6 @@ Responsible for troubleshooting and debugging issues related to LogPoint, unifie
 
 
 ## Contact
-
-<style>
-  .contact-icon {
-    width: 24px; /* Adjust width as needed */
-    height: 24px; /* Adjust height as needed */
-    vertical-align: middle; /* Aligns the icon with the text */
-    margin-right: 8px; /* Space between the icon and text */
-  }
-</style>
 
 <!-- Display Email -->
 <a href="mailto:axd5000@mavs.uta.edu">
