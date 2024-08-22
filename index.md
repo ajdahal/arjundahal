@@ -25,8 +25,6 @@ My approach focuses on creating systems that help mitigate bias during the decis
 
 Regmi, Paribesh, Arjun Dahal, and Basanta Joshi. "Nepali speech recognition using rnn-ctc model." International Journal of Computer Applications 178.31 (2019): 1-6.
 
-### Nepali speech recognition using rnn-ctc model
-**Conference/Journal:** International Journal of Computer Applications | 2019
 
 ---
 
