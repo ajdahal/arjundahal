@@ -56,13 +56,13 @@ I worked as a teaching assistant for the following courses. I was responsible fo
 ## Skills
 
 ### Programming Languages
-- Python, C, C++, Matlab, JavaScript, Java
+- Python, C, C++, JavaScript, Java
 
 ### Tools and Frameworks
 - Tensorflow, Pytorch, Matlab
 
 ### Research Methodologies
-- Machine Learning, Data Analysis 
+- Machine Learning, Data Analysis
 
 
 
