@@ -13,10 +13,8 @@ I am a PhD student in Computer Science & Engineering at University of Texas at A
 
 ## Research
 
-### Fairness Testing of Machine Learning Models 
-**Collaborators:** [Collaborator Names, if any]
-
-I am researching Novel methods to carry out Fairness testing of Black Box Machine Learning Models.
+### Fairness Testing of Machine Learning Models
+I am researching Novel methods to conduct Fairness testing of Black Box Machine Learning Models.
 
 
 ---
@@ -31,6 +29,9 @@ Regmi, Paribesh, Arjun Dahal, and Basanta Joshi. "Nepali speech recognition usin
 ---
 
 ## Teaching
+
+### [Course Title](#)
+**Institution:** [University Name] | _Semester Year_
 
 ### [Course Title](#)
 **Institution:** [University Name] | _Semester Year_
